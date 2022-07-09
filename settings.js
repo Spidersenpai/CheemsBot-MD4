@@ -63,14 +63,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['18762194497']
 global.ownertag = '18762194497' //ur tag number
-global.botname = 'eraser Bot MD V4' //ur bot name
+global.botname = '❍┊❛𝐓𝐎𝐌𝐔𝐑𝐀 𝐒𝐇𝐈𝐆𝐀𝐑𝐀𝐊𝐈❜' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.reactmoji = "🕷️" //ur menu react emoji
+global.themeemoji = "🕷️" //ur theme emoji
 global.packname = "eraser Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄spider" //ur sticker watermark author
+global.author = "🕷️spider" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
